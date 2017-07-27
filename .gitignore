@@ -1,0 +1,21 @@
+**/*.VC.db
+**/*.opensdf
+**/*.opendb
+**/*.sdf
+**/*.sln
+**/*.suo
+**/*.xcodeproj
+**/*.xcworkspace
+**/.vs
+**/Build
+**/Builds
+**/Binaries
+**/ DerivedDataCache
+**/Intermediate
+**/Saved
+**/StarterContent/
+**/*_BuiltData.uasset
+**/Content/experimental
+**/Content/Textures
+**/Content/GTFreeMaterials
+**/Content/FPS/Game/Music
